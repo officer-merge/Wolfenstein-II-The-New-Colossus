@@ -1,0 +1,12 @@
+checksum=490856963
+completionRation=1%
+date=1622284670
+difficulty=2
+gamePlayTime=1764
+gameVersion=1145896965
+mapName=game/wolf/c02/c02p0
+mapNiceName=#str_chapter_c02_name
+matName=textures/guis/missionobj/c02p0/mission_c02p0_main_reunion_obj_03_sailplatform
+missionName=#str_mission_c02p0_main_01_undersiege_name
+objectiveDesc=#str_mission_c02p0_main_01_obj_03_sailplatform_summary
+objectiveName=#str_mission_c02p0_main_01_obj_03_sailplatform_name

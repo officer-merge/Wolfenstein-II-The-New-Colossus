@@ -1,0 +1,12 @@
+checksum=2020345087
+completionRation=27%
+date=1622317845
+difficulty=2
+gamePlayTime=34458
+gameVersion=1145896965
+mapName=game/wolf/c07/c07p2
+mapNiceName=#str_location_c03p1d3_desc
+matName=textures/guis/mission_districts/mission_district_c07p2_bunker_uber_row
+missionName=#str_mission_district_c03p1_bunker_main_location
+objectiveDesc=#str_mission_district_c03p1_bunker_main_summary
+objectiveName=#str_mission_district_c03p1_bunker_obj_kill_name

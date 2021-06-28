@@ -1,0 +1,12 @@
+checksum=180985964
+completionRation=31%
+date=1622318672
+difficulty=2
+gamePlayTime=35285
+gameVersion=1145896965
+mapName=game/wolf/submarine/submarine
+mapNiceName=#str_location_c03p1d3_desc
+matName=textures/guis/mission_districts/mission_district_c07p2_bunker_uber_row
+missionName=#str_mission_district_c03p1_bunker_main_location
+objectiveDesc=#str_mission_district_c03p1_bunker_main_summary
+objectiveName=#str_mission_district_c03p1_bunker_obj_kill_name
